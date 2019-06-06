@@ -20,7 +20,9 @@ https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 ## Samples
 
 https://github.com/LufthansaOpenAPI/
+
 https://openapi.appcenter.ms/
+
 https://github.com/OAI/OpenAPI-Specification/tree/master/examples/v3.0
 
 ## Tools
