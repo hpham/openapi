@@ -25,6 +25,14 @@ https://openapi.appcenter.ms/
 
 https://github.com/OAI/OpenAPI-Specification/tree/master/examples/v3.0
 
+https://developers.themoviedb.org/3/account
+
+https://watson-api-explorer.mybluemix.net/
+
+https://developers.zomato.com/documentation
+
+http://vocadb.net/swagger/ui/index
+
 ## Tools
 
 https://editor.swagger.io/
