@@ -13,9 +13,11 @@ Link and Openapi samples
 
 [Zalando OpenApi Guidelines](https://opensource.zalando.com/restful-api-guidelines/index.html)
 
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md
 
 https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+
+https://cloud.google.com/apis/design/resources?hl=de
 
 ## Samples
 
